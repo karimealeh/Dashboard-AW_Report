@@ -12,7 +12,9 @@ The dashboard will allow them to visualize multiple relationships between catego
 <li> Build a Relational Data Model </li>
 <li> Design the Interactive Power BI Reports </li>
 </ol>
+
 ## Insights
+
 The report is divided in 3 pages. <br> 
 <ul>
 <li> Exec Summary </li> <br> Comprehensive view where the client can see the relation of each product, by category, territory, revenue and returns. One of the most valuable features of this view is being able to filter certain periods of time and analyze whether Adventure Works reached their goals for Revenue, Orders and Returns.
